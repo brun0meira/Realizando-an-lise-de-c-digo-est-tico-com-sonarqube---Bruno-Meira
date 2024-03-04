@@ -1,0 +1,12 @@
+﻿/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/Controllers/SampleController.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/Program.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/SampleModel.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/Startup.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/obj/Debug/net5.0/SampleApp.AssemblyInfo.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/obj/Debug/net5.0/SampleApp.MvcApplicationPartsAssemblyInfo.cs
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/appsettings.Development.json
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/appsettings.json
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/LICENSE
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/README.md
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/Properties/launchSettings.json

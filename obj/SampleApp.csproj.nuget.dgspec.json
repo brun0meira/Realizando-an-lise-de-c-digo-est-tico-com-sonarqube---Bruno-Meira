@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/SampleApp.csproj": {}
+  },
+  "projects": {
+    "/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/SampleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/SampleApp.csproj",
+        "projectName": "SampleApp",
+        "projectPath": "/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/SampleApp.csproj",
+        "packagesPath": "/home/bruno/.nuget/packages/",
+        "outputPath": "/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bruno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

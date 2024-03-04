@@ -1,0 +1,1 @@
+/home/bruno/Documents/GitHub/Realizando-an-lise-de-c-digo-est-tico-com-sonarqube---Bruno-Meira/.sonarqube/out/0
